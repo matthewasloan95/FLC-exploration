@@ -2,7 +2,7 @@ name: flc
 channels:
   - conda-forge
 dependencies:
-  - pytorch::pytorch
+  - pytorch::pytorch=2.3
   - torchvision
   - torchaudio
   - python=3.12

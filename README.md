@@ -12,5 +12,5 @@ My quest to find and detect four leaf clovers from photos, a computer vision jou
 
 I have added my packages and versions to environment yaml files for mac and linux ( If you're trying to recreate on windows I imagine it's largely the same as either, biggest difference is that my linux build has a gtx 1660)
 ``` $
- mamba env create -f environment_mac.yaml
+mamba env create -f environment_mac.yaml
 ```

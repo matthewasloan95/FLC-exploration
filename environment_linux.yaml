@@ -1,11 +1,12 @@
 name: flc
 channels:
-  - conda-forge
+  - pytorch
   - nvidia
+  - conda-forge
 dependencies:
   - pytorch=2.3
   - torchvision
   - torchaudio
   - pytorch-cuda=12.1
-  - python=3.12
   - tqdm
+  - python=3.12

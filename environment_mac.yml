@@ -1,0 +1,9 @@
+name: flc
+channels:
+  - conda-forge
+dependencies:
+  - pytorch::pytorch
+  - torchvision
+  - torchaudio
+  - python=3.12
+  - tqdm

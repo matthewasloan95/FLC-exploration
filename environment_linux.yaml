@@ -10,3 +10,9 @@ dependencies:
   - pytorch-cuda=12.1
   - tqdm
   - python=3.12
+  - timm
+  - pillow
+  - torchmetrics
+  - numpy
+  - matplotlib
+  - pycocotools

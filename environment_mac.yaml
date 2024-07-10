@@ -7,3 +7,9 @@ dependencies:
   - torchaudio
   - python=3.12
   - tqdm
+  - timm
+  - pillow
+  - torchmetrics
+  - numpy
+  - matplotlib
+  - pycocotools
